@@ -5,22 +5,22 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2023-10-04T01:55:21.623Z",
-    "end": "2023-10-04T01:55:21.832Z",
-    "duration": 209
+    "start": "2023-10-30T23:31:10.982Z",
+    "end": "2023-10-30T23:31:11.195Z",
+    "duration": 213
   },
   "tests": [
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "charges 20 dollars for a distance between 400 and 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 20 dollars for a distance between 400 and 2000 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,14 +80,14 @@
     {
       "title": "gives customers a free sample if the ride is less than or equal to 400 feet",
       "fullTitle": "index.js scuberGreetingForFeet() gives customers a free sample if the ride is less than or equal to 400 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "charges 20 dollars for a distance between 400 and 2000 feet",
       "fullTitle": "index.js scuberGreetingForFeet() charges 20 dollars for a distance between 400 and 2000 feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
